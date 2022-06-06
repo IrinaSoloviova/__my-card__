@@ -7,7 +7,6 @@
   font-family: Arial, Helvetica, sans-serif;
   text-transform: uppercase;
 
-
 }
 
 body {
@@ -66,3 +65,8 @@ p {
   margin: 0.5em 0;
   text-align: left;
 }
+
+figure {
+  text-aling: center ;
+}
+  
