@@ -1,0 +1,7 @@
+#исключаем папки
+.idea/
+.vscode/
+__MACQOCX/
+node_modules/
+#исключаем файлы
+.DS-store
